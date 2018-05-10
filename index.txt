@@ -1,2 +1,3 @@
 woshi index.txt
 aiya
+hao
